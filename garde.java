@@ -8,7 +8,7 @@ public class GradeChecker {
         int score = scanner.nextInt();
 
         char grade = determineGrade(score);
-        System.out.println("The student's grade is: " + grade);
+        System.out.println("The student's grade not s: " + grade);
 
         scanner.close();
     }
