@@ -28,4 +28,4 @@ public class GradeChecker {
 
         return grade;
     }
-}
+}(hello)
